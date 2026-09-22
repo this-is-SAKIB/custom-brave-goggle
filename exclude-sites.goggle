@@ -3,6 +3,15 @@
 ! public: false
 ! author: MSH
 
+*.pdf$discard
+*.doc$discard
+*.docx$discard
+*.xls$discard
+*.xlsx$discard
+*.ppt$discard
+*.pptx$discard
+*.csv$discard
+*.txt$discard
 $discard,site=youtube.com
 $discard,site=youtu.be
 $discard,site=wikipedia.org
