@@ -1,0 +1,39 @@
+! name: exclusion-wldm
+! description: Excludes my unwanted domains from Brave Search
+! public: false
+! author: MSH
+
+$discard,site=youtube.com
+$discard,site=youtu.be
+$discard,site=wikipedia.org
+$discard,site=facebook.com
+$discard,site=instagram.com
+$discard,site=tiktok.com
+$discard,site=x.com
+$discard,site=twitter.com
+$discard,site=linkedin.com
+$discard,site=pinterest.com
+$discard,site=reddit.com
+$discard,site=quora.com
+$discard,site=medium.com
+$discard,site=tumblr.com
+$discard,site=whatsapp.com
+$discard,site=telegram.org
+$discard,site=discord.com
+$discard,site=snapchat.com
+$discard,site=threads.net
+$discard,site=weibo.com
+$discard,site=wechat.com
+$discard,site=vk.com
+$discard,site=ok.ru
+$discard,site=amazon.com
+$discard,site=ebay.com
+$discard,site=etsy.com
+$discard,site=tripadvisor.com
+$discard,site=yelp.com
+$discard,site=trustpilot.com
+$discard,site=wikipedia.com
+$discard,site=apps.apple.com
+$discard,site=google.com
+$discard,site=play.google.com
+$discard,site=support.google.com
