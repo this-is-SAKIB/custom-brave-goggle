@@ -55,13 +55,13 @@ $discard,site=esportsworldcup.com
 ! Game main URL 9/22
 ! =========================
 $discard,site=callofduty.com
-$discard,site=callofduty.com
 $discard,site=chess.com
 $discard,site=counter-strike.net
 $discard,site=pdc.tv
 $discard,site=dota2.com
 $discard,site=ea.com
-$discard,site=ea.com
+$discard,site=lichess.com
+$discard,site=worldchess.com
 $discard,site=fortnite.com
 $discard,site=rockstargames.com
 $discard,site=kingsleague.pro
