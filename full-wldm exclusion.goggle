@@ -49,8 +49,31 @@ $discard,site=play.google.com
 $discard,site=support.google.com
 $discard,site=xbox.com
 $discard,site=imdb.com
+$discard,site=liquipedia.net
+$discard,site=esportsworldcup.com
 ! =========================
-! Below Already Live 9/22
+! Game main URL 9/22
+! =========================
+$discard,site=callofduty.com
+$discard,site=callofduty.com
+$discard,site=chess.com
+$discard,site=counter-strike.net
+$discard,site=pdc.tv
+$discard,site=dota2.com
+$discard,site=ea.com
+$discard,site=ea.com
+$discard,site=fortnite.com
+$discard,site=rockstargames.com
+$discard,site=kingsleague.pro
+$discard,site=leagueoflegends.com
+$discard,site=minecraft.net
+$discard,site=pubgmobile.com
+$discard,site=pubg.com
+$discard,site=roblox.com
+$discard,site=facepunch.com
+$discard,site=playvalorant.com
+! =========================
+! Below Already Live or rejected 9/22
 ! =========================
 $discard,site=jimsit.com.au
 $discard,site=washingtonbeerblog.com
