@@ -52,6 +52,13 @@ $discard,site=imdb.com
 ! =========================
 ! Below Already Live
 ! =========================
+$discard,site=egamersworld.com
+$discard,site=pt.egamersworld.com
+$discard,site=codakid.com
+$discard,site=thexboxhub.com
+$discard,site=esportsdriven.com
+$discard,site=icon-era.com
+$discard,site=es.egamersworld.com
 $discard,site=sugarspiceandglitter.com
 $discard,site=wpauthorbox.com
 $discard,site=gamezoom.net
