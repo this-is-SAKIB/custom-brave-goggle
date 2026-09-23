@@ -51,6 +51,8 @@ $discard,site=xbox.com
 $discard,site=imdb.com
 $discard,site=liquipedia.net
 $discard,site=esportsworldcup.com
+$discard,site=steampowered.com
+$discard,site=playstation.com
 ! =========================
 ! Game main URL 9/22
 ! =========================
