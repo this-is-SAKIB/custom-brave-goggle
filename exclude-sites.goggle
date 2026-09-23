@@ -19,6 +19,7 @@ $discard,site=facebook.com
 $discard,site=instagram.com
 $discard,site=tiktok.com
 $discard,site=x.com
+$discard,site=scribd.com
 $discard,site=twitter.com
 $discard,site=linkedin.com
 $discard,site=pinterest.com
