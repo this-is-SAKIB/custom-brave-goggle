@@ -47,6 +47,7 @@ $discard,site=apps.apple.com
 $discard,site=google.com
 $discard,site=play.google.com
 $discard,site=support.google.com
+$discard,site=xbox.com
 ! =========================
 ! Below Already Live
 ! =========================
