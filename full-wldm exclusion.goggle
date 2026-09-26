@@ -56,6 +56,11 @@ $discard,site=esportsworldcup.com
 $discard,site=steampowered.com
 $discard,site=steamcommunity.com
 $discard,site=playstation.com
+$discard,site=wikihow.com
+$discard,site=bluestacks.com
+$discard,site=olympics.com
+$discard,site=hltv.org
+$discard,site=vlr.gg
 ! =========================
 ! Game main URL 9/22
 ! =========================
