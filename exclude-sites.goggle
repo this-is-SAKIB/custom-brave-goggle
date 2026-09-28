@@ -61,10 +61,12 @@ $discard,site=bluestacks.com
 $discard,site=olympics.com
 $discard,site=hltv.org
 $discard,site=vlr.gg
+$discard,site=redbull.com
 ! =========================
 ! Game main URL 9/22
 ! =========================
 $discard,site=pubgesports.com
+$discard,site=krafton.com
 $discard,site=callofduty.com
 $discard,site=chess.com
 $discard,site=counter-strike.net
