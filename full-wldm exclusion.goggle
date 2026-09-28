@@ -64,6 +64,7 @@ $discard,site=vlr.gg
 ! =========================
 ! Game main URL 9/22
 ! =========================
+$discard,site=pubgesports.com
 $discard,site=callofduty.com
 $discard,site=chess.com
 $discard,site=counter-strike.net
