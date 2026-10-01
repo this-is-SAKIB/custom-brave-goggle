@@ -63,6 +63,17 @@ $discard,site=hltv.org
 $discard,site=vlr.gg
 $discard,site=redbull.com
 $discard,site=fandom.com
+$discard,site=kick.com
+$discard,site=softonic.com
+$discard,site=microsoft.com
+$discard,site=twitch.tv
+$discard,site=dailymotion.com
+$discard,site=bbc.com
+$discard,site=bbc.co.uk$discard,site=britanica.com
+$discard,site=pixbay.com
+$discard,site=rumble.com
+$discard,site=aptoide.com
+$discard,site=bilibili.tv
 ! =========================
 ! Game main URL 9/22
 ! =========================
@@ -86,6 +97,19 @@ $discard,site=pubg.com
 $discard,site=roblox.com
 $discard,site=facepunch.com
 $discard,site=playvalorant.com
+$discard,site=miniplay.com
+$discard,site=epicgames.com
+$discard,site=guinnessworldrecords.com
+$discard,site=taptap.io
+$discard,site=crazygames.com
+$discard,site=gamaverse.com
+$discard,site=game.es
+$discard,site=steamdb.info
+$discard,site=minecraft.wiki
+$discard,site=gameforge.com
+$discard,site=now.gg
+$discard,site=ilovevalorant.com
+$discard,site=gaming2u.com
 ! =========================
 ! Below Already Live 9/22
 ! =========================
@@ -294,3 +318,39 @@ $discard,site=greenmangaming.com
 $discard,site=duelmasters.io
 $discard,site=gearupbooster.com
 $discard,site=lootbar.com
+$discard,site=hurriyet.com.tr
+$discard,site=turk.net
+$discard,site=foxngame.com
+$discard,site=kopazar.com
+$discard,site=coinledger.io
+$discard,site=aixinvestment.com
+$discard,site=arkm.com
+$discard,site=benzinga.com
+$discard,site=turkcell.com.tr
+$discard,site=tamindir.com
+$discard,site=donanimhaber.com
+$discard,site=gamesatis.com
+$discard,site=gamemar.com
+$discard,site=gamegaraj.com
+$discard,site=hesap.com.tr
+$discard,site=milliyet.com.tr
+$discard,site=listelist.com
+$discard,site=ebsco.com
+$discard,site=carry1st.com
+$discard,site=bandicam.com
+$discard,site=insights.gg
+$discard,site=3djuegos.com
+$discard,site=pacogames.com
+$discard,site=funtech.co.uk
+$discard,site=testbook.com
+$discard,site=as.com
+$discard,site=pocket-lint.com
+$discard,site=digitalfoundry.net
+$discard,site=playclassic.games
+$discard,site=childnet.com
+$discard,site=howlongtobeat.com
+$discard,site=elespanol.com
+$discard,site=idcgames.com
+$discard,site=buff.game
+$discard,site=metrotvnews.com
+$discard,site=gtabase.com
