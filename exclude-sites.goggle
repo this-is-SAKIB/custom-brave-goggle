@@ -69,7 +69,8 @@ $discard,site=microsoft.com
 $discard,site=twitch.tv
 $discard,site=dailymotion.com
 $discard,site=bbc.com
-$discard,site=bbc.co.uk$discard,site=britanica.com
+$discard,site=bbc.co.uk
+$discard,site=britanica.com
 $discard,site=pixbay.com
 $discard,site=rumble.com
 $discard,site=aptoide.com
