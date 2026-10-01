@@ -62,6 +62,7 @@ $discard,site=olympics.com
 $discard,site=hltv.org
 $discard,site=vlr.gg
 $discard,site=redbull.com
+$discard,site=fandom.com
 ! =========================
 ! Game main URL 9/22
 ! =========================
@@ -220,6 +221,7 @@ $discard,site=esportnow.gg
 $discard,site=tycoonstory.com
 $discard,site=royalchessmall.com
 $discard,site=hone.gg
+$discard,site=expcarry.com
 ! =========================
 ! Below Already Mailed 9/28
 ! =========================
