@@ -4,6 +4,7 @@
 ! author: MSH
 
 ! Block .wiki domains
+*amazon.*$discard
 .wiki^$discard
 .pdf^$discard
 .doc^$discard
