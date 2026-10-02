@@ -3,15 +3,65 @@
 ! public: false
 ! author: MSH
 
-*.pdf$discard
-*.doc$discard
-*.docx$discard
-*.xls$discard
-*.xlsx$discard
-*.ppt$discard
-*.pptx$discard
-*.csv$discard
-*.txt$discard
+! Block .wiki domains
+.wiki^$discard
+.pdf^$discard
+.doc^$discard
+.docx^$discard
+.xls^$discard
+.xlsx^$discard
+.ppt^$discard
+.pptx^$discard
+.csv^$discard
+.zip^$discard
+! communities, tags, products, forum pages
+|https://forum.^$discard
+|https://forums.^$discard
+|https://community.^$discard
+|https://communities.^$discard
+/forum/$discard
+/forums/$discard
+/community/$discard
+/communities/$discard
+/discussion/$discard
+/discussions/$discard
+/tag/$discard
+/tags/$discard
+/category/$discard
+/categories/$discard
+/thread/$discard
+/threads/$discard
+/product/$discard
+/products/$discard
+/user/$discard
+/users/$discard
+/profile/$discard
+/profiles/$discard
+/member/$discard
+/members/$discard
+/topic/$discard
+/topics/$discard
+
+! ============================================================
+! BLOCK COMMON SEARCH / INTERNAL SEARCH PAGES
+! ============================================================
+
+/search/$discard
+/search?*$discard
+?search=$discard
+?q=$discard
+
+/blogs$discard
+/news$discard
+! ============================================================
+! boost pages
+! ============================================================
+.html^$boost=3
+/blog/*$boost=3
+/blogs/*$boost=3
+/news/*$boost=3
+/article/*$boost=3
+
 $discard,site=youtube.com
 $discard,site=youtu.be
 $discard,site=wikipedia.org
@@ -106,7 +156,6 @@ $discard,site=crazygames.com
 $discard,site=gamaverse.com
 $discard,site=game.es
 $discard,site=steamdb.info
-$discard,site=minecraft.wiki
 $discard,site=gameforge.com
 $discard,site=now.gg
 $discard,site=ilovevalorant.com
