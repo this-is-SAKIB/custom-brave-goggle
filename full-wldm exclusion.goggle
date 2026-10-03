@@ -56,11 +56,11 @@
 ! ============================================================
 ! boost pages
 ! ============================================================
-.html^$boost=3
-/blog/*$boost=3
-/blogs/*$boost=3
-/news/*$boost=3
-/article/*$boost=3
+.html^$boost=1
+/blog/*$boost=1
+/blogs/*$boost=1
+/news/*$boost=1
+/article/*$boost=1
 
 $discard,site=youtube.com
 $discard,site=youtu.be
