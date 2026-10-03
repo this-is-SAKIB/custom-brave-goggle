@@ -122,8 +122,6 @@ $discard,site=playstation.com
 $discard,site=wikihow.com
 $discard,site=bluestacks.com
 $discard,site=olympics.com
-$discard,site=hltv.org
-$discard,site=vlr.gg
 $discard,site=redbull.com
 $discard,site=fandom.com
 $discard,site=kick.com
@@ -131,6 +129,7 @@ $discard,site=softonic.com
 $discard,site=microsoft.com
 $discard,site=twitch.tv
 $discard,site=dailymotion.com
+$discard,site=yahoo.com
 $discard,site=britanica.com
 $discard,site=pixbay.com
 $discard,site=rumble.com
@@ -171,6 +170,8 @@ $discard,site=gameforge.com
 $discard,site=now.gg
 $discard,site=ilovevalorant.com
 $discard,site=gaming2u.com
+$discard,site=hltv.org
+$discard,site=vlr.gg
 ! =========================
 ! Below Already Live 9/22
 ! =========================
