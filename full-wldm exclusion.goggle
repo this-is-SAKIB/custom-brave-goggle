@@ -42,6 +42,11 @@
 /members/$discard
 /topic/$discard
 /topics/$discard
+/book/$discard
+/collection/$discard
+/collections/$discard
+/books/$discard
+/play/$discard
 
 ! ============================================================
 ! BLOCK COMMON SEARCH / INTERNAL SEARCH PAGES
@@ -102,6 +107,9 @@ $discard,site=yelp.com
 $discard,site=trustpilot.com
 $discard,site=wikipedia.com
 $discard,site=apps.apple.com
+$discard,site=udemy.com
+$discard,site=spotify.com
+$discard,site=yahoo.com
 $discard,site=google.com
 $discard,site=play.google.com
 $discard,site=support.google.com
