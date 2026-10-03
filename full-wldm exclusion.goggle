@@ -56,6 +56,10 @@
 /search?*$discard
 ?search=$discard
 ?q=$discard
+/download/$discard
+/downloads/$discard
+/fr/$discard
+.fr^$discard
 
 /blogs$discard
 /news$discard
@@ -109,6 +113,7 @@ $discard,site=wikipedia.com
 $discard,site=apps.apple.com
 $discard,site=udemy.com
 $discard,site=spotify.com
+$discard,site=indiatimes.com
 $discard,site=yahoo.com
 $discard,site=google.com
 $discard,site=play.google.com
