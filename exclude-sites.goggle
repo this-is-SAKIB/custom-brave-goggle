@@ -42,6 +42,11 @@
 /members/$discard
 /topic/$discard
 /topics/$discard
+/book/$discard
+/collection/$discard
+/collections/$discard
+/books/$discard
+/play/$discard
 
 ! ============================================================
 ! BLOCK COMMON SEARCH / INTERNAL SEARCH PAGES
@@ -107,6 +112,8 @@ $discard,site=play.google.com
 $discard,site=support.google.com
 $discard,site=xbox.com
 $discard,site=imdb.com
+$discard,site=udemy.com
+$discard,site=spotify.com
 $discard,site=liquipedia.net
 $discard,site=esportsworldcup.com
 $discard,site=steampowered.com
