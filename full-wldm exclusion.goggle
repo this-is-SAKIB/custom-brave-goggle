@@ -70,6 +70,7 @@ $discard,site=instagram.com
 $discard,site=tiktok.com
 $discard,site=x.com
 *amazon.*$discard
+*github.*$discard
 *ebay.*$discard
 *bbc.*$discard
 $discard,site=alibaba.com
