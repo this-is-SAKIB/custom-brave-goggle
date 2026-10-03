@@ -32,8 +32,8 @@
 /categories/$discard
 /thread/$discard
 /threads/$discard
-/product/$discard
-/products/$discard
+(?i)/product/$discard
+(?i)/products/$discard
 /user/$discard
 /users/$discard
 /profile/$discard
