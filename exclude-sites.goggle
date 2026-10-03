@@ -5,6 +5,7 @@
 
 ! Block .wiki domains
 .wiki^$discard
+.gov^$discard
 .pdf^$discard
 .doc^$discard
 .docx^$discard
