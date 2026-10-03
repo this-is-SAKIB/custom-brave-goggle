@@ -47,6 +47,10 @@
 /collections/$discard
 /books/$discard
 /play/$discard
+/download/$discard
+/downloads/$discard
+/fr/$discard
+.fr^$discard
 
 ! ============================================================
 ! BLOCK COMMON SEARCH / INTERNAL SEARCH PAGES
@@ -130,6 +134,7 @@ $discard,site=microsoft.com
 $discard,site=twitch.tv
 $discard,site=dailymotion.com
 $discard,site=yahoo.com
+$discard,site=indiatimes.com
 $discard,site=britanica.com
 $discard,site=pixbay.com
 $discard,site=rumble.com
@@ -206,6 +211,8 @@ $discard,site=criticalhit.net
 $discard,site=noobfeed.com
 $discard,site=gamedesigning.org
 $discard,site=cyberpanel.net
+$discard,site=cgmagonline.com
+$discard,site=shattered.io
 $discard,site=wikijob.co.uk
 $discard,site=superjumpmagazine.com
 $discard,site=tech4gamers.com
