@@ -86,6 +86,7 @@ $discard,site=medium.com
 $discard,site=tumblr.com
 $discard,site=whatsapp.com
 $discard,site=telegram.org
+$discard,site=sportskeeda.com
 $discard,site=discord.com
 $discard,site=snapchat.com
 $discard,site=threads.net
