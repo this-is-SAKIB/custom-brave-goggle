@@ -1,4 +1,5 @@
-! rejected sites
+! name: rejected
+! description: Excludes my unwanted domains from Brave Search
 ! public: false
 ! author: MSH
 
