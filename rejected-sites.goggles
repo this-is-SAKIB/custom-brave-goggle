@@ -2,7 +2,6 @@
 ! description: Excludes my unwanted domains from Brave Search
 ! public: false
 ! author: MSH
-
 $boost=9,site=wallpostmedia.net
 $boost=9,site=easymeaningz.com
 $boost=9,site=templedarshantimes.com
